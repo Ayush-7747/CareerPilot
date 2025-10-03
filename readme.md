@@ -22,7 +22,7 @@ Responsive UI – Card-based layouts, step progress, loading animations, and res
 
 📸 Screenshots
 Welcome Page	ML Performance Chart
-(![Welcome Screenshot](ml_accuracy_chart.png))
+(![](ml_accuracy_chart.png))
 
 	
 ### ⚙️ Tech Stack
