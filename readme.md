@@ -52,23 +52,7 @@ git clone https://github.com/ayush-7747/smart-career-advisor-mvp.git
 cd smart-career-advisor-mvp
 
 
-Open index.html in your browser.
-
-🔹 With Python Backend (Optional)
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Start backend:
-
-python app.py
-# or Flask: flask run
-# or Django: python manage.py runserver
-
-
-Open browser → http://localhost:5000
+Open index.html in your browser and start using 
 
 🛠️ MVP Workflow
 
