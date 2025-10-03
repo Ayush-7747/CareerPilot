@@ -19,17 +19,13 @@ Skill Gap Analysis – Highlights missing skills for the desired career path.
 
 Responsive UI – Card-based layouts, step progress, loading animations, and results dashboard.
 
-🖥️ Live Demo
-
-👉 Try Smart Career Advisor MVP
- 
 
 📸 Screenshots
 Welcome Page	ML Performance Chart
 (![Welcome Screenshot](ml_accuracy_chart.png))
 
 	
-⚙️ Tech Stack
+### ⚙️ Tech Stack
 
 Frontend – Vanilla JavaScript (prototype UI)
 
@@ -46,15 +42,13 @@ B --> C[Feature Extraction (TF-IDF)]
 C --> D[Random Forest Model]
 D --> E[Career Recommendations & Explanations]
 
-📦 How to Run
+### 📦 How to Run
 🔹 Frontend-Only Prototype
-git clone https://github.com/ayush-7747/smart-career-advisor-mvp.git
-cd smart-career-advisor-mvp
+>>git clone https://github.com/ayush-7747/smart-career-advisor-mvp.git
+>>cd smart-career-advisor-mvp
+>>Open index.html in your browser and start using 
 
-
-Open index.html in your browser and start using 
-
-🛠️ MVP Workflow
+### 🛠️ MVP Workflow
 
 User fills out form (grades, skills, interests).
 
@@ -64,7 +58,7 @@ Random Forest predicts career matches.
 
 Results displayed → recommendations + explanations + skill gaps.
 
-🎯 Why This MVP?
+### 🎯 Why This MVP?
 
 Quick user feedback collection
 
@@ -72,7 +66,7 @@ Easy to extend (swap TF-IDF → CNN/resume parsing)
 
 Foundation for real-time market data integration
 
-🚫 Not Yet Included
+ ### 🚫 Not Yet Included
 
 Real-time job market data
 
@@ -97,9 +91,7 @@ Commit & push changes
 
 Submit a Pull Request
 
-📄 License
-
-MIT License © 2025 [Your Name]
+### FREE TO USE 
 
 💡 Created to deliver simple, actionable career guidance.
 Feedback & suggestions welcome → open an issue or discussion
